@@ -114,12 +114,12 @@ This project is managed and produced by [Muhmmad Ali Aamir](https://aliaamir.ver
 
 ### Contact
 
-For questions, feedback, or collaboration opportunities, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For questions, feedback, or collaboration opportunities, please contact us at [alifarhaan800@gmail.com](https://mail.google.com/mail/?view=cm&to=alifarhaan800@gmail.com)
 
 ### Connect with Us
 
 - [GitHub](https://github.com/ali432003)
-- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ali-aamir-249b87220/))
+- [LinkedIn](https://www.linkedin.com/in/ali-aamir-249b87220/)
 
 ### License
 
