@@ -121,7 +121,5 @@ For questions, feedback, or collaboration opportunities, please contact us at [a
 - [GitHub](https://github.com/ali432003)
 - [LinkedIn](https://www.linkedin.com/in/ali-aamir-249b87220/)
 
-### License
 
-This project is licensed under the [MIT License](https://www.mit.edu/).
 
