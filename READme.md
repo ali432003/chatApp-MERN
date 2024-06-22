@@ -14,7 +14,7 @@
 
    ```bash
    git clone https://github.com/ali432003/mern-chatt-app.git
-   cd mern-chatt-app
+   cd humantek-TASK-chatApp
    ```
 
 2. Install dependencies for both the frontend and backend:
