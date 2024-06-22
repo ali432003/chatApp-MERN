@@ -40,7 +40,8 @@
    cd backend
    npm run dev
    ```
-4. Open your cmd/powershell and checks `http://localhost:5000`
+2. Open your cmd/powershell and checks `Running at http://localhost:5000`
+   `DB connected Succesfully` 
 
 3. Start the frontend development server:
 
