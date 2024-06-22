@@ -123,5 +123,5 @@ For questions, feedback, or collaboration opportunities, please contact us at [a
 
 ### License
 
-This project is licensed under the [MIT License](Link to License).
+This project is licensed under the [MIT License](https://www.mit.edu/).
 
