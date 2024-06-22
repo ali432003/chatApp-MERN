@@ -110,6 +110,18 @@
 
 ## 4. Managed and Produced by
 
-```markdown
-GitHub Username: [ali432003](https://github.com/ali432003)
-```
+This project is managed and produced by [Muhmmad Ali Aamir](https://aliaamir.vercel.app/).
+
+### Contact
+
+For questions, feedback, or collaboration opportunities, please contact us at [your-email@example.com](mailto:your-email@example.com).
+
+### Connect with Us
+
+- [GitHub](https://github.com/ali432003)
+- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ali-aamir-249b87220/))
+
+### License
+
+This project is licensed under the [MIT License](Link to License).
+
