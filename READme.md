@@ -92,4 +92,12 @@
 
 ## 2. Snapshots
 
-<img src=""/>
+<img src="./readmeImages/1.png"/>
+<img src="./readmeImages/2.png"/>
+<img src="./readmeImages/3.png"/>
+
+## 4. Managed and Produced by
+
+```markdown
+GitHub Username: [ali432003](https://github.com/ali432003)
+
