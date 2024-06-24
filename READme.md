@@ -110,14 +110,6 @@
 
 ## 4. Managed and Produced by
 
-This project is managed and produced by [Muhmmad Ali Aamir](https://aliaamir.vercel.app/).
+```markdown
+GitHub Username: [ali432003](https://github.com/ali432003)
 
-### Contact
-
-For questions, feedback, or collaboration opportunities, please contact us at [alifarhaan800@gmail.com](https://mail.google.com/mail/?view=cm&to=alifarhaan800@gmail.com)
-
-### Connect with Us
-
-- [GitHub](https://github.com/ali432003)
-- [LinkedIn](https://www.linkedin.com/in/ali-aamir-249b87220/)
-- [fiver](https://www.upwork.com/freelancers/~01648f0e4fa93c12c7)
