@@ -13,7 +13,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ali432003/mern-chatt-app.git
+   git clone https://github.com/ali432003/humantek-TASK-chatApp.git
    cd humantek-TASK-chatApp
    ```
 2. Create a `.env` file in the backend directory with the following content:
